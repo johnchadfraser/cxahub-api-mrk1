@@ -127,3 +127,9 @@ dist
 
 # ignore _bak files
 *_bak.* 
+
+# env files
+*-prod.yml
+*-uat.yml
+*-dev.yml
+.env.local
